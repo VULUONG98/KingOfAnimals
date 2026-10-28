@@ -1,0 +1,4 @@
+version=1.0
+url=https://github.com/VULUONG98/kingofanimals/releases/latest/download/KingOfAnimals.exe
+sig=bdQSO4NeJbpxMWgTPvN3QyfvO2U1CVbLz3SSb/v/mMXwcUVacxnPY7S0/xyg0ou+bd5K6s7BhIvXbuVZUo9n+Q==
+notes=
