@@ -1,4 +1,4 @@
-version=1.0
+version=1.1
 url=https://github.com/VULUONG98/kingofanimals/releases/latest/download/KingOfAnimals.exe
-sig=bdQSO4NeJbpxMWgTPvN3QyfvO2U1CVbLz3SSb/v/mMXwcUVacxnPY7S0/xyg0ou+bd5K6s7BhIvXbuVZUo9n+Q==
-notes=
+sig=UVl4IQacJqSmW/TiyvAizfWwhaW2/9oSX2/7fcSU47oYV4+xPRMPTf7iqUbLI8IEmH81AUWzyFl8lN0gTTR6KA==
+notes=Thêm 14 loài khủng long mới (Spinosaurus, Velociraptor, cổ dài...), Pteranodon gắp mồi lên cao rồi thả rơi. Khuyến mại VIP chỉ 59k đến hết tháng 11/2026!
